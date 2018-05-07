@@ -1,5 +1,6 @@
 export { audit } from './audit';
 export { auditTime } from './auditTime';
+export { average } from './average';
 export { buffer } from './buffer';
 export { bufferCount } from './bufferCount';
 export { bufferTime } from './bufferTime';

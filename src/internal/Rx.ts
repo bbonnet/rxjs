@@ -41,6 +41,7 @@ import 'rxjs-compat/add/observable/dom/ajax';
 import 'rxjs-compat/add/observable/dom/webSocket';
 
 //internal/operators
+import 'rxjs-compat/add/operator/average';
 import 'rxjs-compat/add/operator/buffer';
 import 'rxjs-compat/add/operator/bufferCount';
 import 'rxjs-compat/add/operator/bufferTime';

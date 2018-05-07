@@ -41,6 +41,7 @@ import './add/observable/dom/ajax';
 import './add/observable/dom/webSocket';
 
 //internal/operators
+import './add/operator/average';
 import './add/operator/buffer';
 import './add/operator/bufferCount';
 import './add/operator/bufferTime';
